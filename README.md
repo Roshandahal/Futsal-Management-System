@@ -1,3 +1,30 @@
+Welcome Page of Futsal Management System
+![welcome page](https://user-images.githubusercontent.com/91000837/231097075-d4b9c345-1099-43c3-a736-cfdca4b4aa9f.PNG)
+About us session
+![about](https://user-images.githubusercontent.com/91000837/231095852-f128d395-2b43-4691-bdef-1696338dfbd4.PNG)
+![about2](https://user-images.githubusercontent.com/91000837/231095871-aa02099e-8a0c-4f89-9434-33893c6b02d6.PNG)
+Home page
+![home page](https://user-images.githubusercontent.com/91000837/231095879-3881de24-9d3d-4f02-98f3-5ead4bb1d6ff.PNG)
+Booking Futal court
+![booking](https://user-images.githubusercontent.com/91000837/231095966-3d7626dc-3eaf-4622-a5a4-a73df7f5e956.PNG)
+Booking Coach
+![coach ui](https://user-images.githubusercontent.com/91000837/231096020-b4a0f722-0148-4a99-a4d8-3c99e476da14.PNG)
+Tournment Details
+Score
+![score](https://user-images.githubusercontent.com/91000837/231096184-0495559e-948f-46cb-b54d-6df4fe3520aa.PNG)
+Tournment Update
+![tournment](https://user-images.githubusercontent.com/91000837/231096852-eedf96bd-0e70-47ae-9bc1-d5d5a7397753.PNG)
+News
+![updae news](https://user-images.githubusercontent.com/91000837/231096086-25ac3a13-da32-44b4-80a1-73a7f3273642.PNG)
+
+
+
+
+
+
+
+
+
 
 
 ## About Laravel
