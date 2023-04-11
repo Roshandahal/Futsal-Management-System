@@ -4,28 +4,34 @@ About us session
 ![about](https://user-images.githubusercontent.com/91000837/231095852-f128d395-2b43-4691-bdef-1696338dfbd4.PNG)
 ![about2](https://user-images.githubusercontent.com/91000837/231095871-aa02099e-8a0c-4f89-9434-33893c6b02d6.PNG)
 Home page
-![home page](https://user-images.githubusercontent.com/91000837/231095879-3881de24-9d3d-4f02-98f3-5ead4bb1d6ff.PNG)
+![homepage](https://user-images.githubusercontent.com/91000837/231097969-95b58fe7-dc1f-45c7-8490-894fbebdea29.PNG)
 Booking Futal court
+admin interface/booking details/update price
+![booking details and update price](https://user-images.githubusercontent.com/91000837/231098326-6295eed9-a50d-4613-abf8-3ce0d20f6819.PNG)
+booking user interface
 ![booking](https://user-images.githubusercontent.com/91000837/231095966-3d7626dc-3eaf-4622-a5a4-a73df7f5e956.PNG)
 Booking Coach
+admin pannel of coach userninerface
+![book coach and available coach update](https://user-images.githubusercontent.com/91000837/231098324-dd180923-316e-445a-816e-38f386aba350.PNG)
+user interface of coach 
 ![coach ui](https://user-images.githubusercontent.com/91000837/231096020-b4a0f722-0148-4a99-a4d8-3c99e476da14.PNG)
 Tournment Details
+admin pannel of the tournment update
+![update tournment entry update tiesheet and show tournment entry details](https://user-images.githubusercontent.com/91000837/231098343-09d5ef2a-4a36-4634-8c46-3f63bb02722f.PNG)
 Score
+admin pannel of score and player of the month update
+![update score player of the month](https://user-images.githubusercontent.com/91000837/231098337-25b7eaf3-91c9-43c9-aa3a-b45b2cc0c490.PNG)
+userinterface of score
 ![score](https://user-images.githubusercontent.com/91000837/231096184-0495559e-948f-46cb-b54d-6df4fe3520aa.PNG)
 Tournment Update
 ![tournment](https://user-images.githubusercontent.com/91000837/231096852-eedf96bd-0e70-47ae-9bc1-d5d5a7397753.PNG)
 News
+admin interface of news update
+![update news](https://user-images.githubusercontent.com/91000837/231098330-1cbe6e04-91eb-47fd-8903-f515fad26ebe.PNG)
+user interface
 ![updae news](https://user-images.githubusercontent.com/91000837/231096086-25ac3a13-da32-44b4-80a1-73a7f3273642.PNG)
-
-
-
-
-
-
-
-
-
-
+Admin pannlel
+![admin home](https://user-images.githubusercontent.com/91000837/231098314-8f1145ce-fdfa-4a85-a68f-5dc45ade56d3.PNG)
 
 ## About Laravel
 
