@@ -18,13 +18,13 @@ user interface of coach
 Tournment Details
 admin pannel of the tournment update
 ![update tournment entry update tiesheet and show tournment entry details](https://user-images.githubusercontent.com/91000837/231098343-09d5ef2a-4a36-4634-8c46-3f63bb02722f.PNG)
+user interface of tournment
+![tournment](https://user-images.githubusercontent.com/91000837/231096852-eedf96bd-0e70-47ae-9bc1-d5d5a7397753.PNG)
 Score
 admin pannel of score and player of the month update
 ![update score player of the month](https://user-images.githubusercontent.com/91000837/231098337-25b7eaf3-91c9-43c9-aa3a-b45b2cc0c490.PNG)
 userinterface of score
 ![score](https://user-images.githubusercontent.com/91000837/231096184-0495559e-948f-46cb-b54d-6df4fe3520aa.PNG)
-Tournment Update
-![tournment](https://user-images.githubusercontent.com/91000837/231096852-eedf96bd-0e70-47ae-9bc1-d5d5a7397753.PNG)
 News
 admin interface of news update
 ![update news](https://user-images.githubusercontent.com/91000837/231098330-1cbe6e04-91eb-47fd-8903-f515fad26ebe.PNG)
